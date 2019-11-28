@@ -1,9 +1,7 @@
 # Stock-Management-System
 
 <summary>
-<i>Go to this link for the demo video</i>
-<a href="">
-  Stock Management System</a>
+
 
 # Prerequisite
   Following Software must be installed on your machine before you run the application:  
